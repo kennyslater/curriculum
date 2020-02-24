@@ -3004,6 +3004,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [claymw1292's Solution (Easy)](https://github.comclaymw1292/google-homepage)
 * [Lorenzo's Solution (Easy)](https://github.com/ldbert/google-homepage) - [View in Browser](https://ldbert.github.io/google-homepage/)
 * [MaibHassin's Solution (Both)](https://github.com/MaibHassin/google-homepage) - [View in Browser](https://maibhassin.github.io/google-homepage/)
+* [Kennyslater's Solution (Easy)](https://github.com/kennyslater/google-homepage) - [View in Browser (https://kennyslater.github.io/google-homepage/)
 </details>
 
 ### Additional Resources
